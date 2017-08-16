@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Ernesto Murillo/Desktop/jar files/laf-plugin-7.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ernesto Murillo/Desktop/jar files/laf-widget-6.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ernesto Murillo/Desktop/jar files/mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ernesto Murillo/Desktop/jar files/poi-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ernesto Murillo/Desktop/jar files/poi-ooxml-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ernesto Murillo/Desktop/jar files/poi-ooxml-schemas-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ernesto Murillo/Desktop/jar files/substance-7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ernesto Murillo/Desktop/jar files/trident.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ernesto Murillo/Desktop/jar files/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
