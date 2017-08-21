@@ -1,6 +1,6 @@
 # JavaByExample
 Java by Example presented by Taksila.  
-
+<br>
 About this course
 Learn Java by creating several java programs and applications - Java hands on training program, 14 projects included
 
