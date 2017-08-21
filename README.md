@@ -1,5 +1,6 @@
 # JavaByExample
-Udemy.com class.  Java by Example presented by Taksila.<br>
+Udemy.com class.<br>
+Java by Example presented by Taksila.<br>
 About this course <br>
 Learn Java by creating several java programs and applications - Java hands on training program, 14 projects included <br>
 
