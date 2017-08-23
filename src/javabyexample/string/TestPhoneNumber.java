@@ -14,7 +14,7 @@ public class TestPhoneNumber {
 		telphoneNumbers[7] = "  - (777) - 7777 ";
 		telphoneNumbers[8] = "7 7 7  - (777)  - 7 7 77";
 		telphoneNumbers[9] = "  ( 7 c 7   ) - 777 - abcd ";
- 
+
 		for (String number : telphoneNumbers) {
 			System.out
 					.println(" Number: " + number + "  IsValidPhoneNumber:" + PhoneNumber.validatePhoneNumber(number));
